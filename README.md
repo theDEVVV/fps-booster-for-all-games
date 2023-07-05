@@ -1,25 +1,17 @@
 # fps-booster-for-all-games
 <h3>fps booster written in c++ </h3>
 <h1>
-                                                            ,----,                   
-         ,-.----.                                    ,----..      ,----..                  ,/   .`|                   
-    ,---,\    /  \   .--.--.               ,---,.   /   /   \    /   /   \   .--.--.     ,`   .'  :  ,---,,-.----.    
-  ,'  .' |   :    \ /  /    '.           ,'  .'  \ /   .     :  /   .     : /  /    '. ;    ;     /,'  .' \    /  \   
-,---.'   |   |  .\ |  :  /`. /         ,---.' .' |.   /   ;.  \.   /   ;.  |  :  /`. .'___,/    ,,---.'   ;   :    \  
-|   |   ..   :  |: ;  |  |--`          |   |  |: .   ;   /  ` .   ;   /  ` ;  |  |--`|    :     ||   |   .|   | .\ :  
-:   :  : |   |   \ |  :  ;_            :   :  :  ;   |  ; \ ; ;   |  ; \ ; |  :  ;_  ;    |.';  ;:   :  |-.   : |: |  
-:   |  |-|   : .   /\  \    `.         :   |    ;|   :  | ; | |   :  | ; | '\  \    ``----'  |  |:   |  ;/|   |  \ :  
-|   :  ;/;   | |`-'  `----.   \        |   :     .   |  ' ' ' .   |  ' ' ' : `----.   \  '   :  ;|   :   .|   : .  /  
-|   |   .|   | ;     __ \  \  |        |   |   . '   ;  \; /  '   ;  \; /  | __ \  \  |  |   |  '|   |  |-;   | |  \  
-'   :  ' :   ' |    /  /`--'  /        '   :  '; |\   \  ',  / \   \  ',  / /  /`--'  /  '   :  |'   :  ;/|   | ;\  \ 
-|   |  | :   : :   '--'.     /         |   |  | ;  ;   :    /   ;   :    / '--'.     /   ;   |.' |   |    :   ' | \.' 
-|   :  \ |   | :     `--'---'          |   :   /    \   \ .'     \   \ .'    `--'---'    '---'   |   :   .:   : :-'   
-|   | ,' `---'.|                       |   | ,'      `---`        `---`                          |   | ,' |   |.'     
-`----'     `---`                       `----'                                                    `----'   `---'       
-                                                                                                                      
+  ______ _____   _____   ____   ____   ____   _____ _______ ______ _____  
+ |  ____|  __ \ / ____| |  _ \ / __ \ / __ \ / ____|__   __|  ____|  __ \ 
+ | |__  | |__) | (___   | |_) | |  | | |  | | (___    | |  | |__  | |__) |
+ |  __| |  ___/ \___ \  |  _ <| |  | | |  | |\___ \   | |  |  __| |  _  / 
+ | |    | |     ____) | | |_) | |__| | |__| |____) |  | |  | |____| | \ \ 
+ |_|    |_|    |_____/  |____/ \____/ \____/|_____/   |_|  |______|_|  \_\
+                                                                          
+                                                                                                                                                                            
 </h1>
 
-<label>important:if you dont want to read all of this just scroll down till you see the steps to downlaod it </label>
+<h1>important:if you dont want to read all of this just scroll down till you see the steps to downlaod it </h1>
 <h2>
 Introducing the ultimate FPS Booster, a cutting-edge software developed in C++ with a user-friendly graphical user interface (GUI). This revolutionary booster is Introducing the ultimate FPS Booster, a cutting-edge software developed in C++ with a user-friendly graphical user interface (GUI). This revolutionary booster is designed to enhance your gaming experience across various platforms and software, delivering exceptional performance gains.
 
