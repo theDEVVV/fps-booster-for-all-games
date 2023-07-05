@@ -24,7 +24,7 @@ how to download?
 
 3. launch the booster if anti virus interupts click on install anyway if still doesnt work turn off anti virus
 
-4. you will get this screen <img src="![image](https://github.com/theDEVVV/fps-booster-for-all-games/assets/138717294/3e0c5bfa-fd35-4c42-86cc-2fcc17ed6507)">
+4. you will get this screen <img src="https://github.com/theDEVVV/fps-booster-for-all-games/assets/138717294/3e0c5bfa-fd35-4c42-86cc-2fcc17ed6507">
 
 
 </h2>
