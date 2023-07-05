@@ -24,6 +24,6 @@ how to download?
 
 3. launch the booster if anti virus interupts click on install anyway if still doesnt work turn off anti virus
 
-4. you will get this screen <img src="https://imgur.com/a/yo2zQvO">
+4. you will get this screen <blockquote class="imgur-embed-pub" lang="en" data-id="a/yo2zQvO" data-context="false" ><a href="//imgur.com/a/yo2zQvO"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>>
 
 </h3>
