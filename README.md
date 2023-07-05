@@ -1,6 +1,6 @@
 # fps-booster-for-all-games
 <h3>fps booster written in c++ </h3>
-<img src="https://github.com/theDEVVV/fps-booster-for-all-games/assets/138717294/02b8c0ee-6926-42d7-9f54-95adfbc27744">
+<img src="https://github.com/theDEVVV/fps-booster-for-all-games/assets/138717294/05dd973d-3108-4042-8769-5794a7e3b77c">
 
 <label>important:if you dont want to read all of this just scroll down till you see the steps to downlaod it </label>
 <h2>
