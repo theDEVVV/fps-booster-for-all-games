@@ -24,6 +24,6 @@ how to download?
 
 3. launch the booster if anti virus interupts click on install anyway if still doesnt work turn off anti virus
 
-4. you will get this screen 
+4. you will get this screen <img src="https://imgur.com/a/yo2zQvO">
 
 </h3>
