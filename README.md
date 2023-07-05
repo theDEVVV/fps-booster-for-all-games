@@ -5,7 +5,7 @@ fps booster written in c++
 
 <br>
 <br>
-</h1>
+<h1>
 important:if you dont want to read all of this just scroll down till you see the steps to downlaod it
 </h1>
 <h2>
