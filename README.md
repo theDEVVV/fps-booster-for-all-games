@@ -1,5 +1,7 @@
 # fps-booster-for-all-games
 <h3>fps booster written in c++ </h3>
+<img src="https://github.com/theDEVVV/fps-booster-for-all-games/assets/138717294/02b8c0ee-6926-42d7-9f54-95adfbc27744">
+
 <label>important:if you dont want to read all of this just scroll down till you see the steps to downlaod it </label>
 <h2>
 Introducing the ultimate FPS Booster, a cutting-edge software developed in C++ with a user-friendly graphical user interface (GUI). This revolutionary booster is Introducing the ultimate FPS Booster, a cutting-edge software developed in C++ with a user-friendly graphical user interface (GUI). This revolutionary booster is designed to enhance your gaming experience across various platforms and software, delivering exceptional performance gains.
