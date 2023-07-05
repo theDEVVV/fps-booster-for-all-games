@@ -1,39 +1,9 @@
-# fps-booster-for-all-games
-<h3>fps booster written in c++ </h3>
-<h1>
+<h1># fps-booster-for-all-games
+fps booster written in c++ 
 
-Main Controls - *FIGlet and AOL Macro Fonts Supported*
-Font: 
-Blocks
-Character Width: 
-Smush (U)
-Character Height: 
-Smush (U)
-Test All More Opts About
-FPS BOOSTER
-Other Stuff From patorjk.com That You Might Like:
-Typing Speed Test
-Keyboard Layout Analzyer
-Text Color Fader
-Snake Game
-My Photography Site
-Main Page
-Share Link
-Select & CopyFont Infopatorjk.com
- .----------------. .----------------. .----------------.   .----------------. .----------------. .----------------. .----------------. .----------------. .----------------. .----------------. 
-| .--------------. | .--------------. | .--------------. | | .--------------. | .--------------. | .--------------. | .--------------. | .--------------. | .--------------. | .--------------. |
-| |  _________   | | |   ______     | | |    _______   | | | |   ______     | | |     ____     | | |     ____     | | |    _______   | | |  _________   | | |  _________   | | |  _______     | |
-| | |_   ___  |  | | |  |_   __ \   | | |   /  ___  |  | | | |  |_   _ \    | | |   .'    `.   | | |   .'    `.   | | |   /  ___  |  | | | |  _   _  |  | | | |_   ___  |  | | | |_   __ \    | |
-| |   | |_  \_|  | | |    | |__) |  | | |  |  (__ \_|  | | | |    | |_) |   | | |  /  .--.  \  | | |  /  .--.  \  | | |  |  (__ \_|  | | | |_/ | | \_|  | | |   | |_  \_|  | | |   | |__) |   | |
-| |   |  _|      | | |    |  ___/   | | |   '.___`-.   | | | |    |  __'.   | | |  | |    | |  | | |  | |    | |  | | |   '.___`-.   | | |     | |      | | |   |  _|  _   | | |   |  __ /    | |
-| |  _| |_       | | |   _| |_      | | |  |`\____) |  | | | |   _| |__) |  | | |  \  `--'  /  | | |  \  `--'  /  | | |  |`\____) |  | | |    _| |_     | | |  _| |___/ |  | | |  _| |  \ \_  | |
-| | |_____|      | | |  |_____|     | | |  |_______.'  | | | |  |_______/   | | |   `.____.'   | | |   `.____.'   | | |  |_______.'  | | |   |_____|    | | | |_________|  | | | |____| |___| | |
-| |              | | |              | | |              | | | |              | | |              | | |              | | |              | | |              | | |              | | |              | |
-| '--------------' | '--------------' | '--------------' | | '--------------' | '--------------' | '--------------' | '--------------' | '--------------' | '--------------' | '--------------' |
- '----------------' '----------------' '----------------'   '----------------' '----------------' '----------------' '----------------' '----------------' '----------------' '----------------' 
-</h1>
 
-<h1>important:if you dont want to read all of this just scroll down till you see the steps to downlaod it </h1>
+
+important:if you dont want to read all of this just scroll down till you see the steps to downlaod it </h1>
 <h2>
 Introducing the ultimate FPS Booster, a cutting-edge software developed in C++ with a user-friendly graphical user interface (GUI). This revolutionary booster is Introducing the ultimate FPS Booster, a cutting-edge software developed in C++ with a user-friendly graphical user interface (GUI). This revolutionary booster is designed to enhance your gaming experience across various platforms and software, delivering exceptional performance gains.
 
